@@ -1,5 +1,12 @@
 # docker-compose-innodb-cluster
 
+mysql dev 블로그에 올라온 [포스트](https://dev.mysql.com/blog-archive/docker-compose-setup-for-innodb-cluster/)를 참고하여 작성되었습니다.
+
+fork from
+https://github.com/neumayer/mysql-docker-compose-examples/tree/master/innodb-cluster
+
+
+
 HOW TO START
 
 ```
